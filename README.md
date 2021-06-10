@@ -14,5 +14,5 @@ Once the user is happy with the end result they can generate a log file specifyi
 
 ## Video 
 Here is an implementation of the software on a smart bin with a relatively small 10x10 LED grid.
-You can see it displaying a heart aswell as a pattern. //
+You can see it displaying a heart aswell as a pattern. <br>
 ![example](images/video.gif)
