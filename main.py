@@ -1,5 +1,6 @@
 from tkinter import Tk, Button,colorchooser,filedialog, Frame
 from tkinter.constants import BOTTOM, TOP
+from PIL import Image,
 import random
 
 
