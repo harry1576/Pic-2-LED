@@ -13,5 +13,6 @@ Once the user is happy with the end result they can generate a log file specifyi
 ![peppa_output](images/peppa_example.png)
 
 ## Video 
-Here is an implementation of the software on a smart bin with a relatively small 100x100 LED grid.
-![peppa_output](images/video.gif)
+Here is an implementation of the software on a smart bin with a relatively small 10x10 LED grid.
+You can see it displaying a heart aswell as a pattern.
+![example](images/video.gif)
