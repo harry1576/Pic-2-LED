@@ -8,7 +8,10 @@ Once the user is happy with the end result they can generate a log file specifyi
 ## GUI
 ![GUI](images/gui.png)
 ## Input
-![GUI](images/peppa.jpg)
+![peppa](images/peppa.jpg)
 ## Output
-![GUI](images/peppa_example.png)
+![peppa_output](images/peppa_example.png)
 
+## Video 
+Here is an implementation of the software on a smart bin with a relatively small 100x100 LED grid.
+![peppa_output](images/video.gif)
