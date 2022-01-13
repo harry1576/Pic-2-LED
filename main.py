@@ -96,7 +96,8 @@ class LED_Controller_GUI:
                 rgb_colour = tuple(int(new_colour[i:i+2], 16) for i in (0, 2 ,4))
                 f.write("leds[" + str(LED_Number) + "] = CRGB" + str(rgb_colour) + ";\n")         
           
-        
-root = Tk()
-my_gui = LED_Controller_GUI(root)
-root.mainloop()
+
+if __name__ == "__main__":        
+        root = Tk()
+        my_gui = LED_Controller_GUI(root)
+        root.mainloop()
