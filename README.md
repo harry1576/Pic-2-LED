@@ -19,3 +19,6 @@ You can see it displaying a heart aswell as a pattern. <br>
 <p align="center">
 <img src="https://github.com/harry1576/Pic-2-LED/blob/main/images/video.gif">
 </p>
+
+### Todo
+- [ ] Remove for loops
